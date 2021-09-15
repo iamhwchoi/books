@@ -9,10 +9,13 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
 <table>
   <tr>
    <td>
+     <img src="https://user-images.githubusercontent.com/61550839/114302532-73359d00-9b04-11eb-8f88-05122c62c0af.jpg" width="183px" height="235px"></img>
+   </td>
+   <td>
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold" </span></p>
 
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="183px" height="235px" title="임효성 첫 코딩 챌린지 with HTML CSS" alt="RubberDuck"></img>
+<img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="183px" height="235px" title="임효성 첫 코딩 챌린지 with HTML CSS"></img>
   
    </td>
    <td><strong>서지 정보</strong>
