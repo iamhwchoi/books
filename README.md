@@ -10,7 +10,7 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
   <tr>
    <td>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold" http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg </span><br><br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert1" ><span style="color: red; font-weight: bold" </span></p>
 
 
 <img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="" alt="alt_text" title="image_tooltip">
