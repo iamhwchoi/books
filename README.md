@@ -9,7 +9,7 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
 <table>
   <tr>
    <td>
-     <img src="https://user-images.githubusercontent.com/61550839/114302532-73359d00-9b04-11eb-8f88-05122c62c0af.jpg"></img>
+     <img src="https://user-images.githubusercontent.com/61550839/114302532-73359d00-9b04-11eb-8f88-05122c62c0af.jpg"  width="350px" height="235px" ></img>
    </td>
    <td>
 
