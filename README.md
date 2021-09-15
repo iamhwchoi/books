@@ -36,15 +36,14 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
    </td>
    <td><strong>구매처</strong>
 <p>
-・ <a href="https://bit.ly/3xoPGWc​">골든래빗</a> 
+・ <a href="https://goldenrabbit.co.kr/product/must-have-%eb%b9%84%ec%a0%84%ea%b3%b5%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%b2%ab-%ec%bd%94%eb%94%a9-%ec%b1%8c%eb%a6%b0%ec%a7%80-with-html-css/​">골든래빗</a> 
 <p>
-・ <a href="https://bit.ly/2VgWdEG​">교보문고</a> 
+・ <a href="https://bit.ly/3vUUhzv​">교보문고</a> 
 <p>
-・ <a href="https://bit.ly/3f1WHWg">예스24</a> ​
+・ <a href="https://bit.ly/3vUEhx2​">예스24</a> ​
 <p>
-・ <a href="https://bit.ly/3ybW9ES​">알라딘</a> 
+・ <a href="https://bit.ly/3uBz9wA​">알라딘</a> 
 <p>
-・ <a href="https://bit.ly/2UVrVaW">인터파크</a> ​
    </td>
   </tr>
 </table>
