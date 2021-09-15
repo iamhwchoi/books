@@ -5,13 +5,15 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
 도서부제 : HTML, CSS 입문부터 영상 서비스 앱 UI 만들기와 배포까지
 
 
+
 <table>
   <tr>
    <td>
-<p id="gdcalert1" ><span style="color: red; font-weight: bold"</span></p>
-     
-     <img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="183px" height="235px" title="이재환의 자바 프로그래밍 입문" alt="RubberDuck"></img><br/>
 
+<p id="gdcalert1" ><span style="color: red; font-weight: bold" http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td><strong>서지 정보</strong>
@@ -44,4 +46,5 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
    </td>
   </tr>
 </table>
+
 
