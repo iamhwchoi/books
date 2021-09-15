@@ -9,9 +9,7 @@ Must Have 비전공자를 위한 첫 코딩 챌린지 with HTML&CSS> 예제 소�
   <tr>
    <td>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="183px" height="235px" title="이재환의 자바 프로그래밍 입문" alt="RubberDuck"></img><br/>
+     <img src="http://image.kyobobook.co.kr/images/book/xlarge/849/x9791197149849.jpg" width="183px" height="235px" title="이재환의 자바 프로그래밍 입문" alt="RubberDuck"></img><br/>
 
 
    </td>
