@@ -20,11 +20,9 @@
 
 **구매처**
 
-・ 골든래빗
-・ 교보문고
-・ 예스24 ​
-・ 알라딘
-・ 인터파크 ​
+・ [골든래빗](https://goldenrabbit.co.kr/product/must-have-%eb%82%98%ec%84%b1%ed%98%b8%ec%9d%98-r-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d-%ec%9e%85%eb%ac%b8/)
+・ [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191905038)
+・ [예스24](http://www.yes24.com/Product/Goods/104195468?OzSrank=1) ​・ [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281235259) ​
 
 ## 1. 책 소개
 **★ 명강사가 알려주는 입문자가 알아야 하는 탄탄한 R 데이터 분석 기본기**
