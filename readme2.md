@@ -1,6 +1,6 @@
 <Must Have Joyce의 안드로이드 앱 프로그래밍 with 코틀린> 예제 소스 코드입니다.
 
-도서명 : **〈Must Have〉 Joyce의 안드로이드 앱 프로그래밍 with 코틀린 **
+도서명 : **〈Must Have〉 Joyce의 안드로이드 앱 프로그래밍 with 코틀린**
 도서부제 : Kotlin & Android 입문부터 스톱워치, 뮤직 플레이어, QR 코드 리더기, 할 일 리스트, 미세먼지 측정 프로젝트와 배포까지
 
 
