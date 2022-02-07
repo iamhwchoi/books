@@ -19,10 +19,10 @@
 
 ▶️ **구매처**
 
-・ [골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%ec%9d%98-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%95%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-with-%ec%bd%94%ed%8b%80%eb%a6%b0/){: target="_blank"}   
-・ [교보문고](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4801191905091){: target="_blank"}   
-・ [예스24](http://www.yes24.com/Product/Goods/106730432){: target="_blank"}   
-・ [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288339143){: target="_blank"}   
+・ [골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%ec%9d%98-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%95%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-with-%ec%bd%94%ed%8b%80%eb%a6%b0/)   
+・ [교보문고](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=4801191905091)   
+・ [예스24](http://www.yes24.com/Product/Goods/106730432)   
+・ [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288339143)   
 
 ## 2. 책 소개	   
 **★ 코틀린 강의 NO. 1 유튜버 Joyce가 알려주는**	   
