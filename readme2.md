@@ -31,7 +31,7 @@
 	   
 ## 3. 저자 소개	   
 지은이 홍정아(Joyce)	   
-블록체인 개발 회사, 앱 개발 스타트업 CTO를 거쳐 현재는 테크 스타트업의 대표입니다. 유튜브에서 ‘코틀린 강의’를 검색하면 제일 상단에서 Code with Joyce 채널에 2020년 연재한 코틀린 강의를 만날 수 있습니다([유튜브 채널 youtube.com/user/soja0524](www.youtube.com/user/soja0524) ).	   
+블록체인 개발 회사, 앱 개발 스타트업 CTO를 거쳐 현재는 테크 스타트업의 대표입니다. 유튜브에서 ‘코틀린 강의’를 검색하면 제일 상단에서 Code with Joyce 채널에 2020년 연재한 코틀린 강의를 만날 수 있습니다. [유튜브 채널 youtube.com/user/soja0524](www.youtube.com/user/soja0524)	   
 	   
 ## 4. 출판사 리뷰	   
 	   
