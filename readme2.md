@@ -1,4 +1,4 @@
-**[Must Have] 코드팩토리의 플러터 프로그래밍》 예제 소스 코드입니다.**
+**[Must Have] 코드팩토리의 플러터 프로그래밍》 예제 소스 코드입니다.**   
 도서부제 : Dart & Flutter 입문부터 실전에 유용한 10가지 앱 개발과 광고와 배포까지	   
 	   
 <img src="https://goldenrabbit.co.kr/wp-content/uploads/2022/12/%EC%83%81%EC%84%B8%EC%9D%B4%EB%AF%B8%EC%A7%80750_%EC%83%81-600x700.jpg" width="744px" height="868px" title="[Must Have] 코드팩토리의 플러터 프로그래밍"></img>	   
